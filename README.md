@@ -1,7 +1,8 @@
 <p align="center">
-  <a target="blank"><img src="https://proyectosbeta.net/wp-content/uploads/2017/07/Slim-Php.png" width="100" alt="PHP Logo" /></a>
-  <a target="blank"><img src="https://www.php.net/images/logos/new-php-logo.svg" width="100" alt="PHP Logo" /></a>
-  <a target="blank"><img src="https://jwt.io/img/logo-asset.svg" width="100" alt="PHP Logo" /></a>
+  <a><img src="https://proyectosbeta.net/wp-content/uploads/2017/07/Slim-Php.png" width="100" /></a>
+  <a><img src="https://www.php.net/images/logos/new-php-logo.svg" width="100" /></a>
+  <a><img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-png-transparent.png" width="100"></a>
+  <a><img src="https://jwt.io/img/logo-asset.svg" width="100" /></a>
 </p>
 
 # REST API
