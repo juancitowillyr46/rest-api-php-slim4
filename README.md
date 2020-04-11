@@ -3,7 +3,7 @@
 </p>
 
 # REST API
-REST API wit Slim Framework 4
+REST API with Slim Framework 4
 
 Stack Tegnológico:
 - Slim 4
