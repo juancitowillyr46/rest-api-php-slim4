@@ -5,8 +5,8 @@
   <a><img src="https://jwt.io/img/logo-asset.svg" width="100" /></a>
 </p>
 
-# REST API
-REST API with Slim Framework 4
+# User REST API
+The following code is the construction of a REST API for User Maintenance (CRUD), authentication, and user registration with Slim Framework 4. 
 
 Tech stack:
 - Slim 4
