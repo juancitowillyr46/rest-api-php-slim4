@@ -8,8 +8,10 @@
 # User REST API
 The following code is the construction of a REST API for User Maintenance (CRUD), authentication, and user registration with Slim Framework 4. 
 
-Tech stack:
+<b>Tech stack:</b>
 - Slim 4
 - PHP
 - MySQL
 - Json Web Token (JWT)
+
+<b>Documentation:</b>
