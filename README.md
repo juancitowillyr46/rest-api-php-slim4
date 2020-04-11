@@ -15,5 +15,5 @@ The following code is the construction of a REST API for User Maintenance (CRUD)
 - Json Web Token (JWT)
 
 <b>Documentation:</b>
-
+<img src="https://raw.githubusercontent.com/juancitowillyr46/rest-api-php-slim4/master/img/Screenshot_1.png">
 
