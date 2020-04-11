@@ -8,7 +8,7 @@
 # REST API
 REST API with Slim Framework 4
 
-Stack Tegnológico:
+Tech stack:
 - Slim 4
 - PHP
 - MySQL
