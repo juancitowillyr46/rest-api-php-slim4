@@ -1,5 +1,6 @@
 <?php declare(strict_types=1);
 
+use App\Middleware\JwtMiddleware;
 use Slim\App;
 use Slim\Routing\RouteCollectorProxy;
 
@@ -17,6 +18,6 @@ return function (App $app) {
             $group->put('/{id}', \App\Action\User\UserUpdateAction::class);
             $group->delete('/{id}', \App\Action\User\UserDeleteAction::class);
         });
-    });
+    })->add(JwtMiddleware::class);
 
 };
