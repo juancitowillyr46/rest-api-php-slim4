@@ -1,2 +1,12 @@
-# rest-api-php-slim4
-REST API with Slim 4 Framework for PHP
+<p align="center">
+  <a href="http://nestjs.com/" target="blank"><img src="https://www.php.net/images/logos/new-php-logo.svg" width="100" alt="PHP Logo" /></a>
+</p>
+
+# REST API
+REST API wit Slim Framework 4
+
+Stack Tegnológico:
+- Slim 4
+- PHP
+- MySQL
+- Json Web Token (JWT)
